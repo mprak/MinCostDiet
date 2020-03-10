@@ -1,0 +1,169 @@
+Food,Type,Price,Quantity,Units,Location,City,FDC
+Ground Turkey,Protein,0.4369,1,ounce,Whole Foods,Berkeley,402531
+Ground Turkey,Protein,6.49,1,lbs,Berkeley Bowl,Berkeley,402531
+Ground Turkey,Protein,4.49,1,lbs,Trader Joe's,Berkeley,402531
+Ground Turkey,Protein,2.5,1,lbs,Foods Co,Richmond,402531
+Legumes(Lentils),Protein,0.1,1,ounce,Whole Foods,Berkeley,402024
+Legumes(Lentils),Protein,2.79,1,lbs,Berkeley Bowl,Berkeley,402024
+Legumes(Lentils),Protein,,,,Trader Joe's,Berkeley,402024
+Legumes(Lentils),Protein,1.49,1,lbs,Foods Co,Richmond,402024
+Eggs,Protein,2.99,12,eggs,Whole Foods,Berkeley,358339
+Eggs,Protein,3.49,12,eggs,Berkeley Bowl,Berkeley,358339
+Eggs,Protein,1.99,12,eggs,Trader Joe's,Berkeley,358339
+Eggs,Protein,1.99,12,eggs,Foods Co,Richmond,358339
+Wild Salmon,Protein,12.99,1,lbs,Whole Foods,Berkeley,388511
+Wild Salmon,Protein,14.99,1,lbs,Berkeley Bowl,Berkeley,388511
+Wild Salmon,Protein,9.99,1,lbs,Trader Joe's,Berkeley,388511
+Wild Salmon,Protein,7.99,1,lbs,Foods Co,Richmond,388511
+Scallop,Protein,22.99,1,lbs,Whole Foods,Berkeley,343572
+Scallop,Protein,23.99,1,lbs,Berkeley Bowl,Berkeley,343572
+Scallop,Protein,17.99,1,lbs,Trader Joe's,Berkeley,343572
+Scallop,Protein,,,,Foods Co,Richmond,343572
+Shrimp,Protein,9.99,1,lbs,Whole Foods,Berkeley,452111
+Shrimp,Protein,11.99,1,lbs,Berkeley Bowl,Berkeley,452111
+Shrimp,Protein,9.99,1,lbs,Trader Joe's,Berkeley,452111
+Shrimp,Protein,9.79,1,lbs,Foods Co,Richmond,452111
+Milk,Protein,5.99,1,gallon,Whole Foods,Berkeley,576507
+Milk,Protein,2.99,0.5,gallon,Berkeley Bowl,Berkeley,576507
+Milk,Protein,6.98,1,gallon,Trader Joe's,Berkeley,576507
+Milk,Protein,3.29,1,gallon,Foods Co,Richmond,576507
+Yogurt,Protein,0.89,6,ounce,Berkeley Bowl,Berkeley,542027
+Yogurt,Protein,0.14,1,ounce,Whole Foods,Berkeley,482381
+Yogurt,Protein,0.99,5.3,ounce,Trader Joe's,Berkeley,373595
+Yogurt,Protein,1,5.3,ounce,Foods Co,Richmond,463561
+Chicken,Protein,2.99,1,lbs,Whole Foods,Berkeley,357547
+Chicken,Protein,1.99,1,lbs,Berkeley Bowl,Berkeley,357547
+Chicken,Protein,1.69,1,lbs,Trader Joe's,Berkeley,357547
+Chicken,Protein,2.49,1,lbs,Foods Co,Richmond,357547
+Tofu,Protein,1.79,1,lbs,Whole Foods,Berkeley,514921
+Tofu,Protein,1.69,1,lbs,Berkeley Bowl,Berkeley,514921
+Tofu,Protein,2.04,1,lbs,Trader Joe's,Berkeley,514921
+Tofu,Protein,1.99,8,ounce,Foods Co,Richmond,514921
+Artichoke,Vegetable,3.99,1,lbs,Whole Foods,Berkeley,460547
+Artichoke,Vegetable,1.29,1,lbs,Berkeley Bowl,Berkeley,460547
+Artichoke,Vegetable,2.49,.264,lbs,Trader Joe's,Berkeley,460547
+Artichoke,Vegetable,2.99,.264,lbs,Foods Co,Richmond,460547
+Asparagus,Vegetable,3.99,1,lbs,Whole Foods,Berkeley,594958
+Asparagus,Vegetable,1.39,1,lbs,Berkeley Bowl,Berkeley,594958
+Asparagus,Vegetable,3.69,10,ounce,Trader Joe's,Berkeley,594958
+Asparagus,Vegetable,1.99,1,lbs,Foods Co,Richmond,594958
+Broccoli,Vegetable,1.49,1,lbs,Whole Foods,Berkeley,539572
+Broccoli,Vegetable,1.09,1,lbs,Berkeley Bowl,Berkeley,539572
+Broccoli,Vegetable,1.59,225,grams,Trader Joe's,Berkeley,539572
+Broccoli,Vegetable,1.29,1,lbs,Foods Co,Richmond,539572
+Cauliflower,Vegetable,2.99,1,lbs,Whole Foods,Berkeley,528384
+Cauliflower,Vegetable,1.59,1,lbs,Berkeley Bowl,Berkeley,528384
+Cauliflower,Vegetable,1.59,265,grams,Trader Joe's,Berkeley,528384
+Cauliflower,Vegetable,1.69,1,lbs,Foods Co,Richmond,528384
+Green beans,Vegetable,3.99,1,lbs,Whole Foods,Berkeley,726286
+Green beans,Vegetable,1.49,1,lbs,Berkeley Bowl,Berkeley,726286
+Green beans,Vegetable,2.79,1,lbs,Trader Joe's,Berkeley,726286
+Green beans,Vegetable,1.69,1,lbs,Foods Co,Richmond,726286
+Lettuce,Vegetable,1.99,1,lbs,Whole Foods,Berkeley,342618
+Lettuce,Vegetable,0.69,1,lbs,Berkeley Bowl,Berkeley,342618
+Lettuce,Vegetable,1.29,0.8,ounce,Trader Joe's,Berkeley,342618
+Lettuce,Vegetable,0.99,0.8,ounce,Foods Co,Richmond,342618
+Eggplant,Vegetable,1.69,1,lbs,Whole Foods,Berkeley,450698
+Eggplant,Vegetable,0.89,1,lbs,Berkeley Bowl,Berkeley,450698
+Eggplant,Vegetable,1.39,0.31,lbs,Trader Joe's,Berkeley,450698
+Eggplant,Vegetable,1.49,1,lbs,Foods Co,Richmond,450698
+Peppers,Vegetable,1.79,1,lbs,Whole Foods,Berkeley,342630
+Peppers,Vegetable,0.49,1,lbs,Berkeley Bowl,Berkeley,342630
+Peppers,Vegetable,0.69,0.12,lbs,Trader Joe's,Berkeley,342630
+Peppers,Vegetable,0.99,1,lbs,Foods Co,Richmond,342630
+Snow peas,Vegetable,,,,Whole Foods,Berkeley,739686
+Snow peas,Vegetable,1.19,1,lbs,Berkeley Bowl,Berkeley,739686
+Snow peas,Vegetable,2.07,1,lbs,Trader Joe's,Berkeley,739686
+Snow peas,Vegetable,,,,Foods Co,Richmond,739686
+Spinach,Vegetable,1.49,30,grams,Whole Foods,Berkeley,586879
+Spinach,Vegetable,0.75,1,lbs,Berkeley Bowl,Berkeley,586879
+Spinach,Vegetable,2.29,30,grams,Trader Joe's,Berkeley,586879
+Spinach,Vegetable,1.29,30,grams,Foods Co,Richmond,586879
+Celery,Vegetable,1.99,7.4,ounce,Whole Foods,Berkeley,447185
+Celery,Vegetable,0.59,1,lbs,Berkeley Bowl,Berkeley,447185
+Celery,Vegetable,2.29,7.4,ounce,Trader Joe's,Berkeley,447185
+Celery,Vegetable,1.49,7.4,ounce,Foods Co,Richmond,447185
+Bok choy,Vegetable,2.39,1,lbs,Whole Foods,Berkeley,577448
+Bok choy,Vegetable,0.99,1,lbs,Berkeley Bowl,Berkeley,577448
+Bok choy,Vegetable,5.05,1,lbs,Trader Joe's,Berkeley,577448
+Bok choy,Vegetable,1.29,1,lbs,Foods Co,Richmond,577448
+Avacado,Fruit,1.49,1,lbs,Whole Foods,Berkeley,744912
+Avacado,Fruit,0.69,1,lbs,Berkeley Bowl,Berkeley,744912
+Avacado,Fruit,1.59,150,grams,Trader Joe's ,Berkeley,744912
+Avacado,Fruit,2.5,150,grams,Foods Co,Richmond,744912
+Apple,Fruit,1.69,1,lbs,Whole Foods,Berkeley,168204
+Apple,Fruit,0.89,1,lbs,Berkeley Bowl,Berkeley,168204
+Apple,Fruit,0.69,2.11,lbs,Trader Joe's ,Berkeley,168204
+Apple,Fruit,1.19,1,lbs,Foods Co,Richmond,168204
+Blueberry,Fruit,6.99,1,lbs,Whole Foods,Berkeley,341647
+Blueberry,Fruit,3.19,170,grams,Berkeley Bowl,Berkeley,341647
+Blueberry,Fruit,,,lbs,Trader Joe's ,Berkeley,341647
+Blueberry,Fruit,3.6,,lbs,Foods Co,Richmond,341647
+Grapefruit,Fruit,1.29,1,lbs,Whole Foods,Berkeley,539389
+Grapefruit,Fruit,0.49,236,grams,Berkeley Bowl,Berkeley,539389
+Grapefruit,Fruit,0.99,236,grams,Trader Joe's ,Berkeley,539389
+Grapefruit,Fruit,1.29,236,grams,Foods Co,Richmond,539389
+Grape,Fruit,3.79,1,lbs,Whole Foods,Berkeley,174683
+Grape,Fruit,1.99,1,lbs,Berkeley Bowl,Berkeley,174683
+Grape,Fruit,5.49,2,lbs,Trader Joe's ,Berkeley,174683
+Grape,Fruit,2,1,lbs,Foods Co,Richmond,174683
+Peach,Fruit,3.99,1,lbs,Whole Foods,Berkeley,341586
+Peach,Fruit,2.29,1,lbs,Berkeley Bowl,Berkeley,341586
+Peach,Fruit,,,,Trader Joe's ,Berkeley,341586
+Peach,Fruit,1.99,1,lbs,Foods Co,Richmond,341586
+Orange,Fruit,1.49,1,lbs,Whole Foods,Berkeley,341436
+Orange,Fruit,0.99,1,lbs,Berkeley Bowl,Berkeley,341436
+Orange,Fruit,0.79,131,grams,Trader Joe's ,Berkeley,341436
+Orange,Fruit,1.29,1,lbs,Foods Co,Richmond,341436
+Pear,Fruit,1.99,1,lbs,Whole Foods,Berkeley,341598
+Pear,Fruit,0.89,1,lbs,Berkeley Bowl,Berkeley,341598
+Pear,Fruit,0.79,1,lbs,Trader Joe's ,Berkeley,341598
+Pear,Fruit,,,,Foods Co,Richmond,341598
+Plum,Fruit,3.99,1,lbs,Whole Foods,Berkeley,341614
+Plum,Fruit,2.89,1,lbs,Berkeley Bowl,Berkeley,341614
+Plum,Fruit,,,,Trader Joe's ,Berkeley,341614
+Plum,Fruit,1.99,1,lbs,Foods Co,Richmond,341614
+Lime,Fruit,0.49,0.09,lbs,Whole Foods,Berkeley,341435
+Lime,Fruit,0.17,0.09,lbs,Berkeley Bowl,Berkeley,341435
+Lime,Fruit,0.29,0.09,lbs,Trader Joe's ,Berkeley,341435
+Lime,Fruit,0.99,67,grams,Foods Co,Richmond,341435
+Brown rice,Carbohydrate,7.49,30,ounce,Whole Foods,Berkeley,361272
+Brown rice,Carbohydrate,2.29,1,lbs,Berkeley Bowl,Berkeley,361272
+Brown rice,Carbohydrate,1.63,1,lbs,Trader Joe's ,Berkeley,361272
+Brown rice,Carbohydrate,0.89,1,lbs,Foods Co,Richmond,361272
+Whole wheat bread,Carbohydrate,3.29,1,lbs,Whole Foods,Berkeley,444378
+Whole wheat bread,Carbohydrate,4.79,1,lbs,Berkeley Bowl,Berkeley,444378
+Whole wheat bread,Carbohydrate,1.99,1,lbs,Trader Joe's ,Berkeley,444378
+Whole wheat bread,Carbohydrate,,,,Foods Co,Richmond,444378
+Quinoa,Carbohydrate,3.29,8.8,ounce,Whole Foods,Berkeley,487393
+Quinoa,Carbohydrate,3.29,1,lbs,Berkeley Bowl,Berkeley,487393
+Quinoa,Carbohydrate,3.99,1,lbs,Trader's Joe,Berkeley,487393
+Quinoa,Carbohydrate,3.29,1,lbs,Foods Co,Richmond,487393
+Steel-cut oatmeal,Carbohydrate,0.3265,1,ounce,Whole Foods,Berkeley,553513
+Steel-cut oatmeal,Carbohydrate,2.99,1,lbs,Berkeley Bowl,Berkeley,553513
+Steel-cut oatmeal,Carbohydrate,,,,Trader's Joe,Berkeley,553513
+Steel-cut oatmeal,Carbohydrate,,,,Foods Co,Richmond,553513
+Chia Seed,Carbohydrate,5.49,1,lbs,Whole Foods,Berkeley,588610
+Chia Seed,Carbohydrate,4.29,1,lbs,Berkeley Bowl,Berkeley,588610
+Chia Seed,Carbohydrate,,,,Trader's Joe,Berkeley,588610
+Chia Seed,Carbohydrate,,,,Foods Co,Richmond,588610
+Salt,Spices,1.69,1,lbs,Whole Foods,Berkeley,554984
+Salt,Spices,1.39,1,lbs,Berkeley Bowl,Berkeley,554984
+Salt,Spices,1.69,1,lbs,Trader's Joe,Berkeley,554984
+Salt,Spices,,,,Foods Co,Richmond,554984
+Pepper,Spices,3.99,1.8,ounce,Whole Foods,Berkeley,777846
+Pepper,Spices,2.99,28,grams,Berkeley Bowl,Berkeley,777846
+Pepper,Spices,1.99,2.12,ounce,Trader Joe's,Berkeley,777846
+Pepper,Spices,,,,Foods Co ,Berkeley,777846
+Olive Oil,Spices,21.49,1,liter,Whole Foods,Berkeley,436593
+Olive Oil,Spices,9.99,750,ml,Berkeley Bowl,Berkeley,436593
+Olive Oil,Spices,5.99,1,liter,Trader Joe's ,Berkeley,436593
+Olive Oil,Spices,,,,Foods Co,Richmond,436593
+While Balsamic Vinegar,Spices,2.49,1,quart,Whole Foods,Berkeley,738378
+While Balsamic Vinegar,Spices,10.99,750,ml,Berkeley Bowl,Berkeley,738378
+While Balsamic Vinegar,Spices,2.29,500,ml,Trader Joe's ,Berkeley,738378
+While Balsamic Vinegar,Spices,,,,Foods Co,Richmond,738378
+Cinnamon,Spices,1.495,1,ounce,Whole Foods,Berkeley,545150
+Cinnamon,Spices,7.99,1,lbs,Berkeley Bowl,Berkeley,545150
+Cinnamon,Spices,1.99,1.5,ounce,Trader Joe's ,Berkeley,545150
+Cinnamon,Spices,,,,Foods Co,Richmond,545150
